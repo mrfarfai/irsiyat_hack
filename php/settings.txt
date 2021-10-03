@@ -1,2 +1,0 @@
-camera = 0
-faceDis = 0.50
